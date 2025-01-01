@@ -1,7 +1,6 @@
 {
   "name": "weatherapp",
   "private": true,
-  "homepage": "https://github.com/futureidea1/WeatherApp",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
