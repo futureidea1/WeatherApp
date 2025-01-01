@@ -1,0 +1,17 @@
+body{
+    background-color: #2d3436;
+}
+.Searchbox{
+    
+    text-align: center;
+}
+.btn{
+    width: 200px;
+}
+#standard-basic {
+    width: 400px;
+    border-radius: 10px;
+    color: black; /* Text color for user input */
+    background-color: #dfe6e9; /* Optional: Background for better contrast */
+    border: 1px solid brown; /* Optional: Add a border if needed */
+}
