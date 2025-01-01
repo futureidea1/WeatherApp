@@ -1,8 +1,13 @@
-# React + Vite
+A dynamic weather application built with React and Vite, providing real-time weather updates for any city.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Dynamic City Search: Search weather information by entering any city name.
+Weather Display in Cards: Weather details are displayed in an interactive card layout.
+Dynamic Icons & Images: Weather icons and background images update based on current weather conditions.
+Real-Time Data: Fetches live weather data using an API.
 
-Currently, two official plugins are available:
+📬 Contact
+Developer: Nisha Manohar
+Email: nisha.manohar840@gmail.com
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Happy coding! 😊🌍✨
